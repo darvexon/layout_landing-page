@@ -1,6 +1,6 @@
 .menu {
   height: 100vh;
-  background-color: #F9F9F9;
+  background-color: #f9f9f9;
   box-sizing: border-box;
   font-weight: 700;
 }
@@ -37,7 +37,7 @@
   letter-spacing: 2px;
   display: block;
   padding-bottom: 3px;
-  border-bottom: #1B2129 solid 1px;
+  border-bottom: #1b2129 solid 1px;
   border-radius: 1px;
   width: fit-content;
 }
